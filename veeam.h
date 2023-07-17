@@ -26,7 +26,7 @@ std::ofstream fout ("output.out");
  *                                                          *
  ************************************************************/
 
-char veeam_chr_word[]="Hello there friend!";
+char veeam_chr_word[]="Hello there friends!";
 char veeam_chr_num;
 
 void veeam_v_number();
