@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1689632646 source:c:\horia\work\veeam\veeam\main.cpp
+	"veeam.h"
+
+1689631231 source:c:\horia\work\veeam\veeam\veeam.cpp
+	"veeam.h"
+
+1689633324 c:\horia\work\veeam\veeam\veeam.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1689631301 c:\horia\work\veeam\veeam\veeam.cpp
+
