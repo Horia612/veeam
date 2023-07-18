@@ -29,7 +29,14 @@ std::ofstream fout ("output.out");
 char veeam_chr_word[]="Hello there friends!";
 char veeam_chr_num;
 
+/************************************************************
+ *                                                          *
+ *                  P R O T O   F U N C T I O N S           *
+ *                                                          *
+ ************************************************************/
+
 void veeam_v_number();
 void veeam_v_show();
+void copyFile(const std::string& sourcePath, const std::string& destinationPath);
 
 #endif // VEEAM_H_INCLUDED
